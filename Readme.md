@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[Form1.cs](./CS/PieSegArgToColorIdxProviderSample/Form1.cs) (VB: [Form1.vb](./VB/PieSegArgToColorIdxProviderSample/Form1.vb))**
+<!-- default file list end -->
 # How to colorize pie charts using the PieSegmentArgumentToColorIndexProvider class
 
 
